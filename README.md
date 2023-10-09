@@ -1,5 +1,5 @@
 # jogo Vac Clean 0
-## objetivoster 
+## objetivos
 - salas com  objetos para organizar✔️
 - ao organizar✖️/limpar você aumenta a porcentagem de cada sala✔️
 - ao passar das salas você ganhará dindin por porcentagem✔️
